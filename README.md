@@ -1,4 +1,6 @@
-_**FOR QUICK AND FAST USE**_
+__**FOR QUICK AND FAST USE**__
+
+
 Download the .exe file, double-click to run it, and start automating your typing tasks instantly—no installation or Python setup required!
 
 Auto Typer
@@ -34,6 +36,6 @@ Disclaimer
 This tool is for personal or educational use. Ensure compliance with applicable policies when automating typing tasks.
 
 Contact
-For feedback or support, contact us at [your-email@example.com].
+Feedback or support, add them to the issues tab in this repository!
 
 Download, run, and let Auto Typer handle your typing needs effortlessly!
