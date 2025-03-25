@@ -2,9 +2,12 @@ __**FOR QUICK AND FAST USE**__
 
 
 Download the .exe file, double-click to run it, and start automating your typing tasks instantly—no installation or Python setup required!
-*There is a new updated version use that one instead*
+
+*There is a new updated version use that one instead!*
 
 Want to Chatgpt without getting caught? Use this to type so the teachers can't tell from your version history!
+
+
 **More updates if more people use**
 
 Features
