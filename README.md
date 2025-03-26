@@ -23,13 +23,19 @@ Set Typing Parameters:
 Words per minute (WPM): Adjust typing speed.
 Error rate: Set the likelihood of random typing errors.
 Select Target Application: Switch to the application where you want the text to be typed (e.g., a browser or word processor).
+
+
 Start Typing:
 Press Ctrl-Alt-T or click "Start Typing."
 The tool will begin typing after a 2-second delay.
 Stop Anytime: Press Ctrl-Alt-s or click "Stop Typing."
-System Requirements
+
+
+**System Requirements**
 Operating System: Windows 10 or later.
 Dependencies: None (for .exe version).
+
+
 License
 This project is distributed under the MIT License. You are free to use, modify, and share it with attribution.
 
